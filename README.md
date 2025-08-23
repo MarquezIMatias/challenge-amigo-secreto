@@ -56,10 +56,9 @@
 
     6 - Se elegirá un nombre al azar, y aparecerá en la página "El Nombre Ganador".
 
-<video controls autoplay loop src="./assets/Video Challenge.mp4"></video>
-
 </l2>
 
+<video controls autoplay loop src="./assets/Video Challenge.mp4"></video>
 
 - - -
 
