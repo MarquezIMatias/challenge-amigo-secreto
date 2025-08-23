@@ -58,7 +58,7 @@
 
 </l2>
 
-<video controls autoplay loop src="./assets/Video Challenge.mp4"></video>
+<video controls src="assets/video-ejemplo-amigo-secreto.mp4"></video>
 
 - - -
 
