@@ -80,7 +80,7 @@ Conecta conmigo:
 
    [GitHub](https://github.com/MarquezIMatias)
 
-   [Linkedin](www.linkedin.com/in/matias-ivan-marquez-b05888378)
+   [Linkedin](https://linkedin.com/in/matias-ivan-marquez-b05888378)
 
 
 🚀 Creo en el aprendizaje constante y en el valor de unir el diseño con la programación para construir experiencias digitales únicas.
